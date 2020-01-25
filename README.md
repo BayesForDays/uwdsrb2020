@@ -1,2 +1,1 @@
-# uwdsrb
-UW Data Science Research Bazaar
+# UW Data Science Research Bazaar 2020
